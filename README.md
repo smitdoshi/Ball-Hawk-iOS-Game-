@@ -13,12 +13,7 @@ Go to Apple Store and download XCode
 
 After installing Xcode export this Ball Hawk Project
 
-
-```
-Give the example
-```
-
-And now once you have all the files.
+Once you have all the files.
 
 ```
 Hit the Play Button
