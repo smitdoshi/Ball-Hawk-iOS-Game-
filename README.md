@@ -28,7 +28,7 @@ Start Playing the BallHawk game on your Mac
 
 ## Authors
 
-* **SMIT N DOSHI** - 
+* **SMIT N DOSHI** 
 
 ## License
 
