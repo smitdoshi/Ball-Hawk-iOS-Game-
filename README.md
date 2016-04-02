@@ -1,4 +1,4 @@
-# Ball-Hawk-iOS-Game-
+# Ball-Hawk-iOS-Game
 iOS Game Development 
 
 ### Prerequisities
